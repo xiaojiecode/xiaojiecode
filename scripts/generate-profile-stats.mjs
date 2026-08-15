@@ -51,24 +51,24 @@ const stats = [
 
 const themes = {
   dark: {
-    background: "#0d1117",
-    border: "#30363d",
+    background: "#09070f",
+    border: "#49375d",
     title: "#f0f6fc",
-    text: "#c9d1d9",
+    text: "#d2a8ff",
     muted: "#8b949e",
-    accent: "#58a6ff",
+    accent: "#79c0ff",
   },
   light: {
-    background: "#ffffff",
-    border: "#d0d7de",
+    background: "#fbfaff",
+    border: "#c7b8e0",
     title: "#1f2328",
     text: "#24292f",
     muted: "#59636e",
-    accent: "#0969da",
+    accent: "#6639ba",
   },
 };
 
-const languageColors = ["#2f81f7", "#3fb950", "#f0883e", "#a371f7", "#db6d28", "#d29922"];
+const languageColors = ["#58a6ff", "#56d364", "#f778ba", "#a371f7", "#ffa657", "#f2cc60"];
 const escapeXml = (value) => String(value).replace(/[&<>"']/g, (character) => ({
   "&": "&amp;",
   "<": "&lt;",

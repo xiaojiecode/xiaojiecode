@@ -1,51 +1,48 @@
 <div align="center">
-  <img width="100%" src="./assets/header.svg" alt="IntelliJ IDEA inspired workspace showing Xiao Jie profile.go" />
+  <img width="100%" src="./assets/header.svg" alt="Xiao Jie neon data stream profile node" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/xiaojiecode?tab=followers"><img src="https://img.shields.io/github/followers/xiaojiecode?style=flat-square&label=Followers&color=238636" alt="GitHub followers" /></a>
-  <a href="https://github.com/xiaojiecode?tab=repositories"><img src="https://img.shields.io/badge/Focus-Go%20%C2%B7%20AI%20%C2%B7%20Developer%20Tools-58a6ff?style=flat-square" alt="Focus: Go, AI and developer tools" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xiaojiecode&style=flat-square&color=f0883e&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/xiaojiecode?tab=followers"><img src="https://img.shields.io/github/followers/xiaojiecode?style=flat-square&label=Followers&color=56d364" alt="GitHub followers" /></a>
+  <a href="https://github.com/xiaojiecode?tab=repositories"><img src="https://img.shields.io/badge/Focus-Go%20%C2%B7%20AI%20%C2%B7%20Developer%20Tools-a371f7?style=flat-square" alt="Focus: Go, AI and developer tools" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xiaojiecode&style=flat-square&color=f778ba&label=Profile+views" alt="Profile views" />
 </div>
 
 <div align="center">
-  <code>Project: xiaojiecode</code> · <code>Branch: main</code> · <code>Mode: building</code>
+  <code>NODE: xiaojiecode</code> · <code>CHANNEL: main</code> · <code>STATUS: online</code>
 </div>
 
-## `Project / profile.go`
+## `// IDENTITY`
 
-```go
-type Builder struct {
-    Name  string
-    Focus []string
-}
-
-var xiaojie = Builder{
-    Name:  "Xiao Jie",
-    Focus: []string{"Go systems", "AI workflows", "developer tools"},
+```json
+{
+  "operator": "Xiao Jie",
+  "node": "xiaojiecode",
+  "focus": ["Go systems", "AI workflows", "developer tools"],
+  "signal": "shipping"
 }
 ```
 
 I build practical developer tools, observable backend services, and AI-assisted workflows. Recent work centers on **Go**, **Vue**, and making local or hosted AI systems easier to operate.
 
-## `Project / modules`
+## `// ACTIVE MODULES`
 
-| Module | What it does | Stack |
-| :--- | :--- | :---: |
-| [**agent-tools**](https://github.com/xiaojiecode/agent-tools) | Safer UTF-8 repository tooling and process cleanup for coding agents on Windows | `Go` `PowerShell` |
-| [**mono-rbac**](https://github.com/xiaojiecode/mono-rbac) | Modular monolith starter with JWT, RBAC, Redis, scheduling, monitoring, and Docker deployment | `Go` `Vue 3` |
-| [**llm-availability-console**](https://github.com/xiaojiecode/llm-availability-console) | Availability and latency monitoring for OpenAI-compatible and Anthropic channels | `Go` `Vue 3` |
-| [**agent-project-bootstrap**](https://github.com/xiaojiecode/agent-project-bootstrap) | Repository scanner that bootstraps maintainable guidance for coding agents | `Python` `Agent tooling` |
-| [**go-monitor**](https://github.com/xiaojiecode/go-monitor) | Embeddable application monitoring with optional Gin APIs | `Go` `Gin` |
-| [**lucen-gpt-image**](https://github.com/xiaojiecode/lucen-gpt-image) | Image generation client with editing, batching, retries, and endpoint fallback | `Python` `GPT Image` |
+| Channel | Module | Function | Stack |
+| :---: | :--- | :--- | :---: |
+| `01` | [**agent-tools**](https://github.com/xiaojiecode/agent-tools) | Safer UTF-8 repository tooling and process cleanup for coding agents on Windows | `Go` `PowerShell` |
+| `02` | [**mono-rbac**](https://github.com/xiaojiecode/mono-rbac) | Modular monolith starter with JWT, RBAC, Redis, scheduling, monitoring, and Docker deployment | `Go` `Vue 3` |
+| `03` | [**llm-availability-console**](https://github.com/xiaojiecode/llm-availability-console) | Availability and latency monitoring for OpenAI-compatible and Anthropic channels | `Go` `Vue 3` |
+| `04` | [**agent-project-bootstrap**](https://github.com/xiaojiecode/agent-project-bootstrap) | Repository scanner that bootstraps maintainable guidance for coding agents | `Python` `Agent tooling` |
+| `05` | [**go-monitor**](https://github.com/xiaojiecode/go-monitor) | Embeddable application monitoring with optional Gin APIs | `Go` `Gin` |
+| `06` | [**lucen-gpt-image**](https://github.com/xiaojiecode/lucen-gpt-image) | Image generation client with editing, batching, retries, and endpoint fallback | `Python` `GPT Image` |
 
-## `Run / stack`
+## `// TECH STREAM`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,java,ts,vue,redis,postgres,docker,linux,git,githubactions,powershell&perline=12" alt="Go, Python, Java, TypeScript, Vue, Redis, PostgreSQL, Docker, Linux, Git, GitHub Actions and PowerShell" />
 </div>
 
-## `Version Control / activity`
+## `// TELEMETRY`
 
 <div align="center">
   <picture>
@@ -67,5 +64,5 @@ I build practical developer tools, observable backend services, and AI-assisted 
 </picture>
 
 <div align="center">
-  <sub><code>Run: go build ./...</code> · Build things that stay useful.</sub>
+  <sub><code>TRANSMISSION COMPLETE</code> · Build things that stay useful.</sub>
 </div>
