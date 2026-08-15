@@ -14,7 +14,7 @@
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
     </filter>
-    <clipPath id="typing"><rect x="132" y="105" width="0" height="62"><animate attributeName="width" values="0;590;590;0;0" keyTimes="0;.38;.78;.92;1" dur="7s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="typing"><rect x="52" y="138" width="0" height="58"><animate attributeName="width" values="0;662;662;0;0" keyTimes="0;.38;.78;.92;1" dur="7s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
@@ -33,17 +33,17 @@
   <circle cx="98" cy="40" r="6" fill="#3fb950" />
   <text x="500" y="45" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">~/xiaojiecode</text>
   <path d="M0 66H1000" stroke="#30363d" />
-  <text x="52" y="126" class="mono" font-size="22" fill="#3fb950">$</text>
-  <text x="82" y="126" class="mono" font-size="22" fill="#c9d1d9">whoami</text>
+  <text x="52" y="114" class="mono" font-size="22" fill="#3fb950">$</text>
+  <text x="82" y="114" class="mono" font-size="22" fill="#c9d1d9">whoami</text>
   <g clip-path="url(#typing)">
-    <text x="132" y="177" class="mono" font-size="48" font-weight="700" fill="#f0f6fc">Xiao Jie</text>
-    <text x="358" y="177" class="mono" font-size="48" font-weight="700" fill="#58a6ff">/</text>
-    <text x="402" y="177" class="mono" font-size="48" font-weight="700" fill="#f0883e">Builder</text>
+    <text x="52" y="187" class="mono" font-size="48" font-weight="700" fill="#f0f6fc">Xiao Jie</text>
+    <text x="278" y="187" class="mono" font-size="48" font-weight="700" fill="#58a6ff">/</text>
+    <text x="322" y="187" class="mono" font-size="48" font-weight="700" fill="#f0883e">Builder</text>
   </g>
-  <rect x="132" y="136" width="4" height="48" rx="2" fill="#3fb950" filter="url(#glow)" class="cursor">
-    <animate attributeName="x" values="132;714;714;132;132" keyTimes="0;.38;.78;.92;1" dur="7s" repeatCount="indefinite" />
+  <rect x="52" y="146" width="4" height="48" rx="2" fill="#3fb950" filter="url(#glow)" class="cursor">
+    <animate attributeName="x" values="52;714;714;52;52" keyTimes="0;.38;.78;.92;1" dur="7s" repeatCount="indefinite" />
   </rect>
-  <text x="52" y="222" class="mono" font-size="18" fill="#8b949e">Go · AI systems · Developer tools</text>
+  <text x="52" y="231" class="mono" font-size="18" fill="#8b949e">Go · AI systems · Developer tools</text>
   <g transform="translate(825 218)">
     <circle cx="0" cy="0" r="5" fill="#3fb950" class="pulse" />
     <text x="16" y="6" class="mono" font-size="14" fill="#8b949e">shipping</text>
