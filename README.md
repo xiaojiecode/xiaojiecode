@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/header.svg" alt="Xiao Jie - building useful software" />
+  <img width="100%" src="./assets/header.svg" alt="IDE workspace showing Xiao Jie profile.go" />
 </div>
 
 <div align="center">
@@ -8,32 +8,40 @@
   <img src="https://komarev.com/ghpvc/?username=xiaojiecode&style=flat-square&color=f0883e&label=Profile+views" alt="Profile views" />
 </div>
 
-## Hi, I'm Xiao Jie
+## `profile.go`
 
-I build practical developer tools, observable backend services, and AI-assisted workflows. My recent work centers on **Go**, **Vue**, and making local or hosted AI systems easier to operate.
+```go
+type Builder struct {
+    Name  string
+    Focus []string
+}
 
-- Building reliable tooling for coding agents on Windows
-- Exploring local image, video, speech, and language model workflows
-- Turning backend infrastructure into focused, usable products
+var xiaojie = Builder{
+    Name:  "Xiao Jie",
+    Focus: []string{"Go systems", "AI workflows", "developer tools"},
+}
+```
 
-## Tech stack
+I build practical developer tools, observable backend services, and AI-assisted workflows. Recent work centers on **Go**, **Vue**, and making local or hosted AI systems easier to operate.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,ts,vue,redis,postgres,docker,linux,git,githubactions,powershell&perline=12" alt="Go, Python, Java, TypeScript, Vue, Redis, PostgreSQL, Docker, Linux, Git, GitHub Actions and PowerShell" />
-</div>
+## `workspace/selected`
 
-## Selected work
-
-| Project | What it does | Stack |
+| Module | What it does | Stack |
 | :--- | :--- | :---: |
-| [**agent-tools**](https://github.com/xiaojiecode/agent-tools) | Safer UTF-8 repository tooling and process cleanup for Codex on Windows | `Go` `PowerShell` |
+| [**agent-tools**](https://github.com/xiaojiecode/agent-tools) | Safer UTF-8 repository tooling and process cleanup for coding agents on Windows | `Go` `PowerShell` |
 | [**mono-rbac**](https://github.com/xiaojiecode/mono-rbac) | Modular monolith starter with JWT, RBAC, Redis, scheduling, monitoring, and Docker deployment | `Go` `Vue 3` |
 | [**llm-availability-console**](https://github.com/xiaojiecode/llm-availability-console) | Availability and latency monitoring for OpenAI-compatible and Anthropic channels | `Go` `Vue 3` |
 | [**agent-project-bootstrap**](https://github.com/xiaojiecode/agent-project-bootstrap) | Repository scanner that bootstraps maintainable guidance for coding agents | `Python` `Agent tooling` |
 | [**go-monitor**](https://github.com/xiaojiecode/go-monitor) | Embeddable application monitoring with optional Gin APIs | `Go` `Gin` |
 | [**lucen-gpt-image**](https://github.com/xiaojiecode/lucen-gpt-image) | Image generation client with editing, batching, retries, and endpoint fallback | `Python` `GPT Image` |
 
-## GitHub activity
+## `runtime/stack`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,java,ts,vue,redis,postgres,docker,linux,git,githubactions,powershell&perline=12" alt="Go, Python, Java, TypeScript, Vue, Redis, PostgreSQL, Docker, Linux, Git, GitHub Actions and PowerShell" />
+</div>
+
+## `git/activity`
 
 <div align="center">
   <picture>
@@ -55,5 +63,5 @@ I build practical developer tools, observable backend services, and AI-assisted 
 </picture>
 
 <div align="center">
-  <sub>Build things that stay useful.</sub>
+  <sub><code>go build ./...</code> · Build things that stay useful.</sub>
 </div>
