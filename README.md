@@ -37,14 +37,14 @@ I build practical developer tools, observable backend services, and AI-assisted 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xiaojiecode&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xiaojiecode&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=1a7f37" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaojiecode&show_icons=true&hide_border=true&rank_icon=github" alt="Xiao Jie's GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg" />
+    <img width="46%" src="./assets/github-stats-light.svg" alt="Xiao Jie's GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiecode&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiecode&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiecode&layout=compact&hide_border=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg" />
+    <img width="46%" src="./assets/top-languages-light.svg" alt="Most used languages" />
   </picture>
 </div>
 
