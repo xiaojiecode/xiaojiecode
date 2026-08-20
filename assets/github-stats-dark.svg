@@ -8,7 +8,7 @@
   <rect x="0.5" y="0.5" width="459" height="209" rx="6" fill="#09070f" stroke="#49375d" />
   <text x="28" y="38" class="title" fill="#f0f6fc">GitHub overview</text>
   <text x="28" y="59" class="label" fill="#8b949e">@xiaojiecode · public repositories</text>
-  <text x="28" y="103" class="value" fill="#79c0ff">21</text>
+  <text x="28" y="103" class="value" fill="#79c0ff">22</text>
   <text x="28" y="124" class="label" fill="#8b949e">Repositories</text>
   <text x="244" y="103" class="value" fill="#79c0ff">5</text>
   <text x="244" y="124" class="label" fill="#8b949e">Stars earned</text>

@@ -9,28 +9,28 @@
   <text x="28" y="38" class="title" fill="#f0f6fc">Most used languages</text>
   <text x="28" y="59" class="label" fill="#8b949e">Calculated from public repository bytes</text>
   <clipPath id="bar"><rect x="28" y="70" width="404" height="12" rx="6" /></clipPath>
-  <g clip-path="url(#bar)"><rect x="28.00" y="70" width="133.52" height="12" fill="#58a6ff" />
-  <rect x="161.52" y="70" width="96.76" height="12" fill="#56d364" />
-  <rect x="258.28" y="70" width="83.64" height="12" fill="#f778ba" />
-  <rect x="341.92" y="70" width="40.59" height="12" fill="#a371f7" />
-  <rect x="382.51" y="70" width="16.52" height="12" fill="#ffa657" />
-  <rect x="399.03" y="70" width="32.97" height="12" fill="#f2cc60" /></g>
+  <g clip-path="url(#bar)"><rect x="28.00" y="70" width="130.33" height="12" fill="#58a6ff" />
+  <rect x="158.33" y="70" width="94.44" height="12" fill="#56d364" />
+  <rect x="252.77" y="70" width="81.64" height="12" fill="#f778ba" />
+  <rect x="334.40" y="70" width="39.62" height="12" fill="#a371f7" />
+  <rect x="374.02" y="70" width="25.80" height="12" fill="#ffa657" />
+  <rect x="399.82" y="70" width="32.18" height="12" fill="#f2cc60" /></g>
   <circle cx="33" cy="108" r="5" fill="#58a6ff" />
   <text x="45" y="112" class="label" fill="#d2a8ff">Go</text>
-  <text x="216" y="112" class="label" text-anchor="end" fill="#8b949e">33.1%</text>
+  <text x="216" y="112" class="label" text-anchor="end" fill="#8b949e">32.3%</text>
   <circle cx="249" cy="108" r="5" fill="#56d364" />
   <text x="261" y="112" class="label" fill="#d2a8ff">TypeScript</text>
-  <text x="432" y="112" class="label" text-anchor="end" fill="#8b949e">24.0%</text>
+  <text x="432" y="112" class="label" text-anchor="end" fill="#8b949e">23.4%</text>
   <circle cx="33" cy="140" r="5" fill="#f778ba" />
   <text x="45" y="144" class="label" fill="#d2a8ff">Vue</text>
-  <text x="216" y="144" class="label" text-anchor="end" fill="#8b949e">20.7%</text>
+  <text x="216" y="144" class="label" text-anchor="end" fill="#8b949e">20.2%</text>
   <circle cx="249" cy="140" r="5" fill="#a371f7" />
   <text x="261" y="144" class="label" fill="#d2a8ff">Java</text>
-  <text x="432" y="144" class="label" text-anchor="end" fill="#8b949e">10.0%</text>
+  <text x="432" y="144" class="label" text-anchor="end" fill="#8b949e">9.8%</text>
   <circle cx="33" cy="172" r="5" fill="#ffa657" />
   <text x="45" y="176" class="label" fill="#d2a8ff">JavaScript</text>
-  <text x="216" y="176" class="label" text-anchor="end" fill="#8b949e">4.1%</text>
+  <text x="216" y="176" class="label" text-anchor="end" fill="#8b949e">6.4%</text>
   <circle cx="249" cy="172" r="5" fill="#f2cc60" />
   <text x="261" y="176" class="label" fill="#d2a8ff">Python</text>
-  <text x="432" y="176" class="label" text-anchor="end" fill="#8b949e">3.5%</text>
+  <text x="432" y="176" class="label" text-anchor="end" fill="#8b949e">3.4%</text>
 </svg>
